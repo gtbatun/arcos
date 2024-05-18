@@ -8,7 +8,7 @@
             <div class="card">
                 <div class="card-header">{{ __('Dashboard') }}</div>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis facilis laboriosam commodi maiores sequi consectetur temporibus nobis, voluptatem corporis, dolores ducimus id dicta? Officia quas assumenda, quasi sit cum velit.</p>
-
+                <h1>inlkmñl,</h1>
                 <div class="card-body">
                     @if (session('status'))
                         <div class="alert alert-success" role="alert">
